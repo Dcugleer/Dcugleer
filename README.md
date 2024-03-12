@@ -1,6 +1,7 @@
 # Jovem Apaixonado por Tecnologia e Programação.
 
-Olá! 👋 Sou DENIS CUGLER, apaixonado por explorar os limites da programação. Atualmente, estou focado em me aprimorar nas áreas de análise e desenvolvimento de sistemas, além de Engenharia de software.
+Olá! 👋 Sou DENIS CUGLER, apaixonado por explorar os limites da programação. Atualmente, estou focado em me aprimorar nas áreas de análise e desenvolvimento de sistemas além de Engenharia de software.
+Infraestrutura e Desenvolvimento
 
 
 
