@@ -1,9 +1,26 @@
-# Jovem Apaixonado por Tecnologia e Programação.
+# Hey! Sejam bem-vindos. Me chamo Denis e sou um Desenvolvedor Back-end iniciante. Em Transição de carreira.
+Apaixonado por tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas. Minha jornada no universo da programação começou com a curiosidade de entender como os softwares funcionam e rapidamente se transformou em uma paixão por criar soluções eficientes e inovadoras.
+Durante minha jornada, descobri uma curiosidade em otimizar algumas atividades rotineiras, então busquei o início dos estudos. E tive enorme afeição com Desenvolvimento de Software na área Back-end com linguagem JavaScript, Python, Java, PHP, C#.
+Atualmente estou focado em expandir meus conhecimentos através dos cursos técnicos e futura pós-graduação
 
-Olá! 👋 Sou DENIS CUGLER, apaixonado por explorar os limites da programação. 
-Atualmente Estudando,
-análise e desenvolvimento de sistemas e Engenharia de software.
-Infraestrutura e Desenvolvimento
+## Habilidades e Conhecimentos
+•	Linguagens de Programação: Tenho experiência prática com Python, Java e C#, aplicando esses conhecimentos em diversos projetos acadêmicos e pessoais.
+•	Desenvolvimento Web: Conhecimento em HTML, CSS, JavaScript e frameworks como React, desenvolvendo interfaces de usuário intuitivas e responsivas.
+•	Banco de Dados: Familiaridade com SQL e sistemas de gerenciamento de banco de dados como MySQL e PostgreSQL, garantindo a eficiente manipulação e armazenamento de dados.
+•	Análise de Sistemas: Capacidade de entender e modelar sistemas complexos, aplicando técnicas de análise para otimização e melhoria contínua.
+•	Metodologias Ágeis: Experiência com Scrum e Kanban, contribuindo para a gestão eficiente de projetos e a entrega de resultados de qualidade.
+
+## Projetos 
+Durante minha formação, participei de diversos projetos que fortaleceram minhas habilidades técnicas:
+Objetivos 
+Estou constantemente buscando aprender e me aprimorar, acompanhando as tendências do setor de tecnologia e explorando novas ferramentas e linguagens. Meu objetivo é contribuir para projetos inovadores que façam a diferença, aplicando meu conhecimento e criatividade para resolver problemas reais.
+
+
+
+
+
+
+
 
 
 
@@ -89,13 +106,12 @@ Engenharia de Software  Universidade Positivo.
 
 🌱 **Aprendizado Contínuo:** Acredito firmemente na importância do aprendizado contínuo e estou sempre buscando aprimorar minhas habilidades técnicas e conhecimentos em programação, participando de cursos, workshops e eventos relacionados à tecnologia.
 
-## Contato
-
-Deniscugler@gmail.com
 
 
-
-
+## Conecte-se
+Estou sempre aberto a novas oportunidades de networking e colaboração. Vamos nos conectar para trocar experiências e explorar possibilidades de trabalhar juntos em projetos desafiadores!
+Gostou de algum tema? Vamos conversar!
+ E-Mail: Deniscugler@gmail.com
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-cugler/)
 
 
