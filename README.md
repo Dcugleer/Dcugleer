@@ -1,4 +1,5 @@
-# Hey! Sejam bem-vindos. Me chamo Denis e sou um Desenvolvedor Back-end iniciante. Em Transição de carreira.
+# Hey! Sejam bem-vindos. Me chamo Denis e sou um Desenvolvedor Back-end iniciante. 
+## Em Transição de carreira.
 Apaixonado por tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas. Minha jornada no universo da programação começou com a curiosidade de entender como os softwares funcionam e rapidamente se transformou em uma paixão por criar soluções eficientes e inovadoras.
 Durante minha jornada, descobri uma curiosidade em otimizar algumas atividades rotineiras, então busquei o início dos estudos. E tive enorme afeição com Desenvolvimento de Software na área Back-end com linguagem JavaScript, Python, Java, PHP, C#.
 Atualmente estou focado em expandir meus conhecimentos através dos cursos técnicos e futura pós-graduação
