@@ -111,7 +111,7 @@ Engenharia de Software  Universidade Positivo.
 ## Conecte-se
 Estou sempre aberto a novas oportunidades de networking e colaboração. Vamos nos conectar para trocar experiências e explorar possibilidades de trabalhar juntos em projetos desafiadores!
 Gostou de algum tema? Vamos conversar!
- E-Mail: Deniscugler@gmail.com
+ **E-Mail:** Deniscugler@gmail.com
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-cugler/)
 
 
