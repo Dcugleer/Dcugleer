@@ -1,4 +1,5 @@
-#Olá! Seja bem-vindo ao meu perfil. 
+## Olá! Seja bem-vindo ao meu perfil. 
+
 Sou Denis, um Desenvolvedor Back-end apaixonado por tecnologia e atualmente cursando Análise e Desenvolvimento de Sistemas.
 
 Minha jornada na programação começou com uma curiosidade sobre o funcionamento dos softwares, evoluindo rapidamente para uma paixão por criar soluções eficientes e inovadoras. Desde então, tenho me dedicado a otimizar atividades rotineiras e me especializar no desenvolvimento Back-end com linguagens como JavaScript, Python, Java, PHP e C#.
