@@ -21,7 +21,7 @@ Atualmente, sigo em constante evolução através de cursos, projetos pessoais e
 ## 📂 Projetos  
 
 Tenho participado de projetos acadêmicos e pessoais que fortaleceram minhas habilidades técnicas, aplicando boas práticas e foco em soluções reais.  
-*(Aqui você pode listar ou linkar seus repositórios principais futuramente!)*  
+
 
 ---
 
