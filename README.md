@@ -10,7 +10,7 @@ Atualmente, sigo em constante evolução através de cursos, projetos pessoais e
 
 ## 🚀 Habilidades e Conhecimentos  
 
-- **Linguagens:** Python, Java, C#, PHP, JavaScript, TypeScript  
+- **Linguagens:** Python, Java, C#, PHP, JavaScript, TypeScript, .Net,
 - **Desenvolvimento Web:** HTML, CSS, React  
 - **Banco de Dados:** MySQL, PostgreSQL  
 - **Análise de Sistemas:** modelagem, otimização e melhoria contínua  
